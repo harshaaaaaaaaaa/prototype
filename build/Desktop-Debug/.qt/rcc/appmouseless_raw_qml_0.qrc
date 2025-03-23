@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/mouseless/">
+    <file alias="Main.qml">/home/anujs/mouseless/Main.qml</file>
+    <file alias="Resourse.qrc">/home/anujs/mouseless/Resourse.qrc</file>
+  </qresource>
+</RCC>
+
